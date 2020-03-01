@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 19 14:29:41 2020
 
-@author: Muhammad Sarim
+@author: Arushi Saxena
 """
 
 from keras.models import load_model
